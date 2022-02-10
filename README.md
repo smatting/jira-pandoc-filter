@@ -1,6 +1,6 @@
 An attempt to escape the horrible JIRA editor.
 
-`jira_filter.py` is a [pandoc filter](https://pandoc.org/filters.html) that cleans up some of JIRA's html so that it can be converted to Markdown without too much loss.
+`jira_filter.py` is a [pandoc filter](https://pandoc.org/filters.html) that cleans up some of JIRA's html so that it can be converted to Markdown without too much loss. This is work in progress!
 
 This repo also contains script `a2md` that enables a somewhat crappy workflow:
 
