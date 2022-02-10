@@ -17,7 +17,7 @@ Make sure you have the following packages installed:
 - `pandoc`
 - `xclip`
 
-Make sure you have [https://nixos.org/](nix package manager) installed.
+Make sure you have [nix package manager](https://nixos.org/) installed.
 
 ```sh
 $ nix-env -if ./local.nix
